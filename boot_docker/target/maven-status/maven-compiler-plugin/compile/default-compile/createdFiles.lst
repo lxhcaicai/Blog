@@ -1,0 +1,8 @@
+com\wang\docker\controller\UserController.class
+com\wang\docker\entities\User.class
+com\wang\docker\config\RedisConfig.class
+com\wang\docker\service\UserService.class
+com\wang\docker\config\SwaggerConfig.class
+com\wang\docker\DockerBootApplication.class
+com\wang\docker\entities\UserDTO.class
+com\wang\docker\mapper\UserMapper.class
